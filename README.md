@@ -1,6 +1,3 @@
-# Survey-for-AI-Scientist
-A comprehensive survey for AI Scientist.
-
 
 <h1 align="center">A Survey of AI Scientists for Autonomous Research</h1>
 
@@ -16,7 +13,7 @@ A comprehensive survey for AI Scientist.
 <br>
 
 <p align="center">
-  <img src="figures/Fig-intro.png" width="85%" alt="Conceptual Structure of the AI Scientist Landscape">
+  <img src="https://github.com/Mr-Tieguigui/Survey-for-AI-Scientist/blob/main/Fig-overview.pdf" width="85%" alt="Conceptual Structure of the AI Scientist Landscape">
 </p>
 <p align="center"><em><b>Figure 1:</b> Conceptual structure of the AI Scientist landscape, illustrating our survey's three-layer organization.</em></p>
 
