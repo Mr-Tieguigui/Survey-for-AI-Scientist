@@ -20,19 +20,20 @@ A comprehensive survey for AI Scientist.
 </p>
 <p align="center"><em><b>Figure 1:</b> Conceptual structure of the AI Scientist landscape, illustrating our survey's three-layer organization.</em></p>
 
-## 📌 Contents
+## 📌 Navigating the Awesome List
 
-| Section                                                      | Subsections                                                                                                                                                     |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [📖 **Introduction**](#introduction)                          | [Scope & Objectives](#scope-and-objectives), [Contributions](#contributions)                                                                                    |
-| [🏛️ **Background & Taxonomy**](#background-and-taxonomy)       | [Taxonomy of Research Categories](#taxonomy-of-research-categories), [Historical Evolution](#historical-evolution)                                              |
-| [⚙️ **Methodology**](#methodology)                            | [Literature Review](#stage-1-literature-review), [Idea Generation](#stage-2-idea-generation), [Experimental Preparation](#stage-3-experimental-preparation), [Experimental Execution](#stage-4-experimental-execution), [Scientific Writing](#stage-5-scientific-writing), [Paper Generation](#stage-6-paper-generation) |
-| [📊 **Evaluation & Benchmarks**](#evaluation-and-benchmarks)  | [Evaluation Dimensions](#evaluation-dimensions), [Benchmark Landscape](#benchmark-landscape)                                                                    |
-| [🚀 **Applications**](#applications)                          | [General Systems](#general-ai-scientist-systems), [Domain-Specific Applications](#domain-specific-applications)                                                   |
-| [🔭 **Future Directions & Conclusion**](#future-directions--conclusion) | -                                                                                                                                                       |
-| [📚 **Awesome AI Scientist List**](#awesome-ai-scientist-a-curated-list) | [End-to-End Systems](#end-to-end-ai-scientist-systems), [Methodological Stages](#methodological-stages), [Benchmarks](#benchmarks--evaluation), [Surveys](#foundational--survey-papers) |
+This repository provides a curated list of seminal papers in the AI Scientist domain, organized into five key areas. Use the table below to navigate to the different sections of the list.
+
+| Category                                                     | Sub-Categories                                                                                                                                                 |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [📚 **Foundational & Survey Papers**](#foundational--survey-papers) | Historical papers, broad surveys, and ethical discussions of the field.                                                                                          |
+| [🤖 **End-to-End Systems**](#end-to-end-ai-scientist-systems) | Flagship systems aiming for full-cycle scientific automation.                                                                                                  |
+| [⚙️ **Methodological Stages**](#methodological-stages)       | [Literature Review](#stage-1-literature-review--knowledge-synthesis), [Idea Generation](#stage-2-idea--hypothesis-generation), [Exp. Preparation](#stage-3-experimental-preparation--planning), [Exp. Execution](#stage-4-experimental-execution--control), [Scientific Writing](#stage-5-scientific-writing--reporting) |
+| [📊 **Benchmarks & Evaluation**](#benchmarks--evaluation)     | Frameworks and datasets for evaluating the capabilities of AI Scientists.                                                                                        |
+| [🚀 **Domain-Specific Applications**](#domain-specific-applications) | [Chemistry & Materials](#chemistry--materials-science), [Biology & Biomedical](#biology--biomedical-research), [Physics & Engineering](#physics--engineering), [Meta-Science](#meta-science) |
 
 ---
+
 
 ## Key Frameworks of Our Survey
 
@@ -64,6 +65,23 @@ Our analysis reveals a clear developmental trajectory, charting the field's prog
 # Awesome AI Scientist: A Curated List
 
 A curated list of papers and resources for AI Scientist systems, categorized by their position in the scientific workflow.
+
+### Foundational & Survey Papers
+*Historical papers, broad surveys, and ethical discussions of the field.*
+
+- AI for science in the real world: A review of data, modeling, and deployment [Paper](https://doi.org/10.1016/j.patter.2023.100821) ![Patterns](https://img.shields.io/badge/Patterns-2023-green)
+- Large language models in scientific research: a survey of opportunities and challenges [Paper](https://doi.org/10.1007/s10439-023-03423-z) ![Annals of Biomedical Engineering](https://img.shields.io/badge/Annals_of_Biomedical_Engineering-2024-green)
+- AI in science: emerging trends and practices [Paper](https://doi.org/10.1145/3645200) ![Journal of Data and Information Quality](https://img.shields.io/badge/JDIQ-2024-green)
+- Large Language Model based Agents: A Survey on Methodologies, Applications, and Challenges [Paper](https://arxiv.org/abs/2408.14574) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)
+- Agentic ai for scientific discovery: A survey of progress, challenges, and future directions [Paper](https://arxiv.org/abs/2503.08979) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+- From ai for science to agentic science: A survey on autonomous scientific discovery [Paper](https://arxiv.org/abs/2508.14111) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+- Llm4sr: A survey on large language models for scientific research [Paper](https://arxiv.org/abs/2501.04306) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+- The Ethics of Using Artificial Intelligence in Scientific Research [Paper](https://doi.org/10.1007/s43681-024-00493-8) ![AI and Ethics](https://img.shields.io/badge/AI_and_Ethics-2024-green)
+- Exploring the Ethical Landscape of AI in Academic Writing [Paper](https://doi.org/10.1186/s41935-025-00453-1) ![Forensic Sciences & Digital Investigation](https://img.shields.io/badge/FSDI-2025-green)
+
+
+---
+
 
 ### End-to-End AI Scientist Systems
 *Systems that aim to cover the entire scientific research loop, from ideation to a final paper.*
@@ -163,18 +181,35 @@ A curated list of papers and resources for AI Scientist systems, categorized by 
 
 ---
 
-### Foundational & Survey Papers
-*Historical papers, broad surveys, and ethical discussions of the field.*
+### Domain-Specific Applications
+*This section highlights AI Scientist systems and methodologies that are tailored for, or demonstrated in, specific scientific domains.*
 
-- Scientific Discovery: Computational Explorations of the Creative Processes ![MIT Press](https://img.shields.io/badge/MIT_Press-1987-purple)
-- Distilling Free-Form Natural Laws from Experimental Data [Paper](https://www.science.org/doi/10.1126/science.1165893) ![Science](https://img.shields.io/badge/Science-2009-green)
-- AI for science in the real world: A review of data, modeling, and deployment [Paper](https://doi.org/10.1016/j.patter.2023.100821) ![Patterns](https://img.shields.io/badge/Patterns-2023-green)
-- Large language models in scientific research: a survey of opportunities and challenges [Paper](https://doi.org/10.1007/s10439-023-03423-z) ![Annals of Biomedical Engineering](https://img.shields.io/badge/Annals_of_Biomedical_Engineering-2024-green)
-- AI in science: emerging trends and practices [Paper](https://doi.org/10.1145/3645200) ![Journal of Data and Information Quality](https://img.shields.io/badge/JDIQ-2024-green)
-- Large Language Model based Agents: A Survey on Methodologies, Applications, and Challenges [Paper](https://arxiv.org/abs/2408.14574) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)
-- Agentic ai for scientific discovery: A survey of progress, challenges, and future directions [Paper](https://arxiv.org/abs/2503.08979) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
-- From ai for science to agentic science: A survey on autonomous scientific discovery [Paper](https://arxiv.org/abs/2508.14111) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
-- Llm4sr: A survey on large language models for scientific research [Paper](https://arxiv.org/abs/2501.04306) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
-- The Ethics of Using Artificial Intelligence in Scientific Research [Paper](https://doi.org/10.1007/s43681-024-00493-8) ![AI and Ethics](https://img.shields.io/badge/AI_and_Ethics-2024-green)
-- Exploring the Ethical Landscape of AI in Academic Writing [Paper](https://doi.org/10.1186/s41935-025-00453-1) ![Forensic Sciences & Digital Investigation](https://img.shields.io/badge/FSDI-2025-green)
-- The Use of Artificial Intelligence in Academic Writing: What is Ethical and What is Not [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5243488) ![SSRN](https://img.shields.io/badge/SSRN-2025-lightgray)
+#### Chemistry & Materials Science
+- Autonomous chemical research with large language models [Paper](https://doi.org/10.1038/s41586-023-06792-0) ![Nature](https://img.shields.io/badge/Nature-2023-green)
+- Autonomous Materials Discovery with the A-Lab Platform [Paper](https://doi.org/10.1038/s44160-023-00288-1) ![Nature Synthesis](https://img.shields.io/badge/Nature_Synthesis-2023-green)
+- A Multi-Agent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research on Demand [Paper](https://chemrxiv.org/engage/chemrxiv/article-details/66a625c001103d79c5043c48) ![ChemRxiv](https://img.shields.io/badge/ChemRxiv-2024-orange)
+- Navigating self-driving labs in chemical and material research [Paper](https://doi.org/10.1016/j.patter.2024.101329) ![Patterns](https://img.shields.io/badge/Patterns-2024-green)
+- MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses [Paper](https://arxiv.org/abs/2410.07076) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)
+- ORGANA: A robotic assistant for automated chemistry experiments [Paper](https://doi.org/10.1016/j.chemmeth.2025.00123) ![Chemistry Methods](https://img.shields.io/badge/Chemistry_Methods-2025-green)
+- AutoLabs: Cognitive Multi-Agent Systems with Self-Correction for Autonomous Chemical Experimentation [Paper](https://arxiv.org/abs/2509.25651) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+
+#### Biology & Biomedical Research
+- Machine learning for hypothesis generation in biology and medicine [Paper](https://doi.org/10.3389/fnins.2023.1134702) ![Frontiers in Neuroscience](https://img.shields.io/badge/Frontiers_in_Neuroscience-2023-green)
+- BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology [Paper](https://aclanthology.org/2023.emnlp-main.162) ![EMNLP](https://img.shields.io/badge/EMNLP-2023-blue)
+- LLM4GRN: Discovering Causal Gene Regulatory Networks with Large Language Models [Paper](https://arxiv.org/abs/2410.18925) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)
+- Virtual Scientists: Accelerating Biomedical Discovery with Multi-Agent Systems [Paper](https://arxiv.org/abs/2504.18210) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+- BioDSA-1K: Benchmarking Data Science Agents for Biomedical Research [Paper](https://arxiv.org/abs/2505.16100) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+- Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs [Paper](https://arxiv.org/abs/2505.07012) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+
+#### Physics & Engineering
+- AI-Assisted Discovery of Quantitative and Formal Models in Social Science Data [Paper](https://doi.org/10.1038/s41467-020-17264-5) ![Nature Communications](https://img.shields.io/badge/Nature_Communications-2020-green)
+- Agents for Self-Driving Laboratories Applied to Quantum Computing [Paper](https://arxiv.org/abs/2412.07978) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)
+- Agentic AI for Multi-Stage Physics Experiments at a Large-Scale User Facility Particle Accelerator [Paper](https://arxiv.org/abs/2509.17255) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+- Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics [Paper](https://arxiv.org/abs/2510.09901) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+- SR-Scientist: Scientific Equation Discovery With Agentic AI [Paper](https://arxiv.org/abs/2510.11661) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+
+#### Meta-Science & Social Science
+- AI for Social Science and Social Science of AI: A Survey [Paper](https://doi.org/10.1016/j.ipm.2024.103665) ![Information Processing & Management](https://img.shields.io/badge/IP&M-2024-green)
+- SciAgents: Automating Scientific Discovery through Multi-Agent Intelligent Graph Reasoning [Paper](https://arxiv.org/abs/2409.05556) ![arXiv](https://img.shields.io/badge/arXiv-2024-red)
+- SciSciGPT: Advancing Human-AI Collaboration in the Science of Science [Paper](https://arxiv.org/abs/2504.05559) ![arXiv](https://img.shields.io/badge/arXiv-2025-red)
+
