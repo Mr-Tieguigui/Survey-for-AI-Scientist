@@ -40,7 +40,7 @@ Our survey introduces two core conceptual tools to structure the AI Scientist fi
 We deconstruct the complex process of scientific discovery into six interoperable stages, providing a unified lens to analyze and compare different systems.
 
 <p align="center">
-  <img src="figures/Fig-workflow.png" width="90%" alt="Six-Stage Workflow">
+  <img src="https://github.com/Mr-Tieguigui/Survey-for-AI-Scientist/blob/main/Fig-workflow.png" width="90%" alt="Six-Stage Workflow">
 </p>
 <p align="center"><em><b>Figure 2:</b> The end-to-end workflow of an AI Scientist system, from knowledge synthesis to validated scientific reports.</em></p>
 
@@ -48,7 +48,7 @@ We deconstruct the complex process of scientific discovery into six interoperabl
 Our analysis reveals a clear developmental trajectory, charting the field's progression from modular components to integrated, self-reflective agents.
 
 <p align="center">
-  <img src="figures/Fig-history.png" width="90%" alt="Historical Evolution">
+  <img src="https://github.com/Mr-Tieguigui/Survey-for-AI-Scientist/blob/main/Fig-history.png" width="90%" alt="Historical Evolution">
 </p>
 <p align="center"><em><b>Figure 3:</b> The evolution of AI Scientist research from 2022 to 2025, highlighting three major phases of development.</em></p>
 
