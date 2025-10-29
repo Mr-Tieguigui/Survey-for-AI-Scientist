@@ -2,7 +2,7 @@
 <h1 align="center">A Survey of AI Scientists for Autonomous Research</h1>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="Paper"></a>
+  <a href="https://arxiv.org/abs/2510.23045"><img src="https://img.shields.io/badge/arXiv-2510.23045-b31b1b.svg" alt="Paper"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC--BY--SA--4.0-lightgrey.svg" alt="License"></a>
   <a href="https://github.com/your-username/your-repo/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <a href="#awesome-ai-scientist-a-curated-list"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List"></a>
